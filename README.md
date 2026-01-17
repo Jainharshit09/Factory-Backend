@@ -213,14 +213,3 @@ defect rate.
 -   Real-world data processing and analytics.
 
 ------------------------------------------------------------------------
-
-## 👨‍💻 Developer
-
-**Agent**\
-B.Tech Computer Science Student
-
-------------------------------------------------------------------------
-
-## 📜 Note
-
-This project is developed for academic and learning purposes.
